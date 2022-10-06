@@ -1,0 +1,16 @@
+
+*.json
+*.dll
+*.exe
+*.pdb
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/Fraction.AssemblyInfo.cs
+obj/Debug/net6.0/Fraction.AssemblyInfoInputs.cache
+*.cache
+*.BuildWithSkipAnalyzers
+obj/Debug/net6.0/Fraction.csproj.FileListAbsolute.txt
+*.editorconfig
+obj/Debug/net6.0/Fraction.GlobalUsings.g.cs
+obj/Fraction.csproj.nuget.g.props
+*.targets
+*.csproj

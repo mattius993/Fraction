@@ -1,4 +1,4 @@
-﻿namespace Lezione3_es2
+﻿namespace Fraction
 {
     internal class Program
     {

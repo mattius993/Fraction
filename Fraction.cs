@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lezione3_es2
+namespace Fraction
 {
     class Fraction
     {
@@ -78,7 +78,7 @@ namespace Lezione3_es2
         }
         public override string ToString()
         {
-            return numerator + "\n___\n" + denominator;
+            return numerator + "\n___\n" + denominator+ "\n";
         }
         public int Mcm(Fraction f)
         {
